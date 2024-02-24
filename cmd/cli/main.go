@@ -3,8 +3,8 @@ package main
 import (
 	"fmt"
 
-	"github.com/cshandler/go-expert-stress-test/internal/infra"
-	"github.com/cshandler/go-expert-stress-test/internal/usecase"
+	"github.com/shandler/go-expert-stress-test/internal/infra"
+	"github.com/shandler/go-expert-stress-test/internal/usecase"
 )
 
 func main() {
