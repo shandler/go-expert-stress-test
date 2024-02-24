@@ -1,4 +1,4 @@
-module github.com/cshandler/go-expert-stress-test
+module github.com/shandler/go-expert-stress-test
 
 go 1.21.5
 
