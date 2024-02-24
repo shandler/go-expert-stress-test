@@ -1,0 +1,14 @@
+version: '3.7'
+
+services:
+  stress-test-cli:
+    build:
+      context: .
+      dockerfile: Dockerfile-cli
+    image: stress-test-cli
+    container_name: stress-test-cli
+    networks:
+      - stress-test
+
+networks:
+  stress-test:
