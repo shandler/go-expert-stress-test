@@ -3,7 +3,7 @@ package usecase
 import (
 	"encoding/json"
 
-	"github.com/cshandler/go-expert-stress-test/internal/dto"
+	"github.com/shandler/go-expert-stress-test/internal/dto"
 )
 
 type Presenter interface {
