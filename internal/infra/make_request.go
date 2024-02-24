@@ -5,7 +5,7 @@ import (
 	"io"
 	"net/http"
 
-	"github.com/cshandler/go-expert-stress-test/internal/entity"
+	"github.com/shandler/go-expert-stress-test/internal/entity"
 )
 
 type MakeHttpRequest struct{}
