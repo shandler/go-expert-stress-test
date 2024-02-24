@@ -1,10 +1,10 @@
 # Stress test CLI
 
-# 🚀 Starting the application!
+#  Starting the application!
 
 - Execute the command `make run`. and then we can see the container set in `docker-compose.yaml`.
 
-# 🧪 How can I test?
+#  How can I test?
 
 - You need to execute this command
   ```shell
@@ -61,7 +61,7 @@
     - `error_count`: the amount of errors that we have during the stress tests.
     - `total_duration`: the duration in string format, for this case, we perform the test in **~33s**.
 
-# 🚨 Errors
+#  Errors
 
 We have identified these possible errors that validated the input params **BEFORE** we proceed with the execution of the
 stress tests.
