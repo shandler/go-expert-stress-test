@@ -3,7 +3,7 @@ package main
 import (
 	"flag"
 
-	"github.com/cshandler/go-expert-stress-test/internal/dto"
+	"github.com/shandler/go-expert-stress-test/internal/dto"
 )
 
 func setInputFlags() dto.RequestFlagInput {
